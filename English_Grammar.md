@@ -81,3 +81,25 @@
 
 33. Comma, Full Stop, Apostrophe, Quotation Marks
 34. Capitalization Rules
+
+
+---
+
+❌ **थोड़ा गलत हो गया**, Sudhir!
+👉 **"She" एक Pronoun (सर्वनाम)** है, ना कि Noun.
+
+### ✅ सही Explanation:
+
+* "She" किसी लड़की या महिला के लिए इस्तेमाल होता है — यानी ये **noun की जगह** ले रहा है।
+* इस वजह से **Pronoun** कहलाता है।
+
+---
+
+### अब अगला Example:
+
+**Example 2:**
+👉 The **dog** barked loudly.
+**"dog" कौन सा part of speech है?**
+
+(सोचकर जवाब दो 😊)
+
